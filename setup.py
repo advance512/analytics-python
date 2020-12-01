@@ -25,7 +25,7 @@ install_requires = [
     "requests>=2.7,<3.0",
     "six>=1.5",
     "monotonic>=1.5",
-    "backoff==1.6.0",
+    "backoff==1.8.0",
     "python-dateutil>2.1"
 ]
 
